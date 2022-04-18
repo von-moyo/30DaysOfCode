@@ -1,0 +1,1 @@
+https://github.com/von-moyo/30DaysOfCode/blob/master/day%201/day%201.js
