@@ -1,1 +1,1 @@
-https://github.com/von-moyo/30DaysOfCode/blob/master/day%201/day%201.js
+https://replit.com/@vonnnnn/30DaysOfCode#day%201.js
